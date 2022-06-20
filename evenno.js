@@ -5,4 +5,3 @@ for(let i=1;i<=n;i++){
     }
 }
 
-/* Using while loop */
