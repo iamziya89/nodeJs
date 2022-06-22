@@ -9,6 +9,7 @@ let n=parseInt(process.argv[2])
 // Using while loops
 
 let i=1;
+let j = 1
 while(i<=n){
     if(i%2==0){
     console.log(i);
