@@ -5,5 +5,22 @@ let b=6;
 // console.log(c);
 
 // Subtraction Operator
-let c=a-b;
+// let c=a-b;
+// console.log(c);
+
+
+//........Multiplication Operator..........
+
+// let c=a*b;
+// console.log(c)
+
+//........Division Operator..........
+
+// let c=a/b;
+// console.log(c);
+
+
+//.......Modulus operator........
+
+let c=a%b;
 console.log(c);
