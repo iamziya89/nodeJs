@@ -10,6 +10,12 @@
 
 // ..............  Boolean  ...........
 
-let isPresent=true;
-console.log(isPresent);
-console.log(typeof isPresent);
+// let isPresent=true;
+// console.log(isPresent);
+// console.log(typeof isPresent);
+
+// .........Undefined.........
+
+let myName;
+console.log(myName);
+console.log(typeof myName);
