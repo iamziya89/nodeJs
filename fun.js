@@ -1,6 +1,7 @@
+console.log(sumOfDigit(4434))
 
-let sum=0;
 function sumOfDigit(num){
+    let sum=0;
 while(num !=0){
     let rem=num%10;
     sum=sum+rem**2;
@@ -8,5 +9,4 @@ while(num !=0){
 }
 return sum;
 }
-console.log(sumOfDigit(4434))
-console.log(sumOfDigit(443))
+

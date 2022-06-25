@@ -1,4 +1,5 @@
-
+console.log(sumOfDigit(4434))
+console.log(sumOfDigit(443))
 let sum=0;
 let sumOfDigit=(num)=>{
 while(num !=0){
@@ -8,5 +9,3 @@ while(num !=0){
 }
 return sum;
 }
-console.log(sumOfDigit(4434))
-console.log(sumOfDigit(443))
