@@ -6,3 +6,4 @@ isInterestedForJob:true
 }
 // console.log(devloper.language,devloper.name,devloper.experience,devloper.isInterestedForJob)
 console.log(typeof devloper)
+console.log(devloper["name"]);
