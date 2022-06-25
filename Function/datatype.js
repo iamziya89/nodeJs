@@ -16,6 +16,13 @@
 
 // .........Undefined.........
 
-let myName;
-console.log(myName);
-console.log(typeof myName);
+// let myName;
+// console.log(myName);
+// console.log(typeof myName);
+
+
+// ..........Null datatypes..........
+
+let nothing=null;
+console.log(nothing);
+console.log(typeof nothing)
