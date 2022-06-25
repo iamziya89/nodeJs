@@ -1,4 +1,4 @@
-function sumOfdigit(num){
+let ans =(function sumOfdigit(num){
     let sum=0;
     while(num!=0){
         rem=num%10;
@@ -6,5 +6,5 @@ function sumOfdigit(num){
         num=Math.floor(num/10);
     }
     return sum;
-}
-console.log(sumOfdigit(49))
+})(76);
+console.log(ans)
